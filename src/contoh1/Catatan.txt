@@ -1,0 +1,1 @@
+Mendefinisikan SubClass dan SuperClass
